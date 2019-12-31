@@ -31,6 +31,10 @@ a:visited {
   color: green;
 }
 
+a:link {
+  color: black;
+}
+
 h1 {
   font-family: 'Homemade Apple', cursive;
   font-size: 40px;
