@@ -51,3 +51,35 @@ img {
   width: 200px;
   padding: 0px 0px 0px 0px;
 }
+
+
+#pepino {
+  background: #fdd8ce;
+  height: 2000px;
+}
+
+#pepino img {
+  width: 350px;
+  margin: 100px;
+}
+
+#img1 {
+  padding: 30px;
+}
+
+#img2 {
+  padding: 30px;
+}
+
+#img3 {
+  padding: 30px;
+}
+
+#img4 {
+  padding: 0px 100px 0px 200px;
+}
+
+
+#img5 {
+  padding: 0px 100px 0px 200px;
+}
