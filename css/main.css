@@ -59,8 +59,8 @@ img {
 
 
 #pepino {
-  background: #fdd8ce;
-  height: 2000px;
+  background: #168241;
+  height: 1500px;
 }
 
 #pepino img {
@@ -84,7 +84,36 @@ img {
   padding: 0px 100px 0px 200px;
 }
 
-
 #img5 {
   padding: 0px 100px 0px 200px;
+}
+
+#mbt {
+  background: #FFE212;
+  height: 1700px;
+}
+
+#img6 {
+  width: 450px;
+  margin: 100px;
+}
+
+#img7 {
+  width: 900px;
+  margin: 100px;
+}
+
+#img8 {
+  width: 900px;
+  margin: 100px;
+}
+
+#img9 {
+  width: 450px;
+  margin: 100px;
+}
+
+#img10 {
+  width: 900px;
+  margin: 100px 50px 0px 300px;
 }
