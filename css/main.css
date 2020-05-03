@@ -226,7 +226,18 @@ footer p {
 
 }
 
+/*-----------ABOUT----------------*/
 
+.selfie {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.selfie img {
+		box-shadow: 5px 5px 20px darkgray;
+	width:270px;
+}
 
 /*----------TABLET---------------*/
 
