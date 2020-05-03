@@ -23,6 +23,7 @@ header {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	width:100%;
 }
 
 .nav-wrapper {
@@ -106,6 +107,126 @@ footer p {
 }
 
 
+/*-------------BRANDING----------------------*/
+
+
+#pepino {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+  	background: #168241;
+	padding-top:100px;
+}
+
+#pepino img {
+  width: 500px;
+}
+
+#pepino h1 {
+	padding:0;
+}
+
+#pepino p {
+	font-size: 30px;
+	width:60%;
+	text-align: center;
+}
+
+#mbt {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+  	background: #FFE212;
+	padding-top: 100px;
+}
+
+#mbt .content-wrapper {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top:100px;
+}
+
+#mbt h1 {
+	padding:0;
+}
+
+#mbt p {
+	font-size: 30px;
+	text-align: center;
+}
+
+#img1 {
+	margin-top:100px;
+		box-shadow: 10px 10px 30px black;
+	padding-bottom: 0;
+
+}
+
+#img2 {
+	margin-top:100px;
+		box-shadow: 10px 10px 30px black;
+	padding-bottom: 0;
+}
+
+#img3 {
+		margin-top:100px;
+		box-shadow: 10px 10px 30px black;
+	padding-bottom: 0;
+}
+#img4 {
+		margin-top:100px;
+		box-shadow: 10px 10px 30px black;
+	padding-bottom: 0;
+}
+
+#img5 {
+		margin-top:100px;
+		box-shadow: 10px 10px 30px black;
+	padding-bottom: 0;
+	margin-bottom: 170px;
+}
+
+#img6 {
+  width: 450px;
+  box-shadow: 10px 10px 30px black;
+	padding-bottom: 0;
+	margin-bottom: 200px;
+}
+
+#img7 {
+    width: 800px;
+	box-shadow: 10px 10px 30px black;
+	padding-bottom: 0;
+		margin-bottom: 200px;
+
+}
+
+#img8 {
+  width: 800px;
+	box-shadow: 10px 10px 30px black;
+	padding-bottom: 0;
+		margin-bottom: 200px;
+
+}
+
+#img9 {
+  width: 800px;
+	box-shadow: 10px 10px 30px black;
+	padding-bottom: 0;
+		margin-bottom: 200px;
+
+}
+
+#img10 {
+  width: 500px;
+	box-shadow: 10px 10px 30px black;
+	padding-bottom: 0;
+		margin-bottom: 200px;
+
+}
+
+
 
 /*----------TABLET---------------*/
 
@@ -149,66 +270,3 @@ footer p {
 }
 	
 
-/*-----------------------------------*/
-
-
-
-#pepino {
-  background: #168241;
-  height: 1500px;
-}
-
-#pepino img {
-  width: 400px;
-  margin: 80px;
-}
-
-#img1 {
-  padding: 30px;
-}
-
-#img2 {
-  padding: 30px;
-}
-
-#img3 {
-  padding: 30px;
-}
-
-#img4 {
-  padding: 0px 100px 0px 200px;
-}
-
-#img5 {
-  padding: 0px 100px 0px 200px;
-}
-
-#mbt {
-  background: #FFE212;
-  height: 1700px;
-}
-
-#img6 {
-  width: 450px;
-  margin: 100px;
-}
-
-#img7 {
-  width: 900px;
-  margin: 100px;
-}
-
-#img8 {
-  width: 900px;
-  margin: 100px;
-}
-
-#img9 {
-  width: 450px;
-  margin: 100px;
-}
-
-#img10 {
-  width: 900px;
-  margin: 100px 50px 0px 300px;
-}
