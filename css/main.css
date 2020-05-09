@@ -402,7 +402,10 @@ img {
 	width:250px;
 	}
 	
-
+.contact-info {
+	padding-top:80px;
+}
+	
 .contact-info p {
 	font-size: 26px;
 }
@@ -435,9 +438,13 @@ img {
 footer p {
 	margin:100px 0;
 }
+
+.contact-info {
+		padding-top:80px;
+}
 	
 .contact-info p {
-	font-size: 26px;
+	font-size: 28px;
 }
 	
 /*------------WEB DESIGN PAGE------------*/
