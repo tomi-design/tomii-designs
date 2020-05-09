@@ -289,10 +289,9 @@ footer p {
 
 /*------------WEB DESIGN PAGE------------*/
 
-html {
+.web-design-background {		 
 	background:url('../img/yellow-white.png') no-repeat center center fixed;
 	background-size:cover;
-	height: 100%;
 }
 
 .content-wrapper {
