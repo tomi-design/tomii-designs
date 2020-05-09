@@ -410,6 +410,10 @@ img {
 	font-size: 26px;
 }
 	
+.me-info {
+	padding-top:30px;
+}
+	
 }
 
 		
@@ -445,6 +449,10 @@ footer p {
 	
 .contact-info p {
 	font-size: 28px;
+}
+
+.me-info {
+	padding-top:30px;
 }
 	
 /*------------WEB DESIGN PAGE------------*/
