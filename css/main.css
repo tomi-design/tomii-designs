@@ -361,6 +361,36 @@ footer p {
 	width:270px;
 }
 
+.about-content-wrapper {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.about-me-info {
+	width:60%;
+	padding:100px 0;
+}
+
+.about-me-info p {
+	font-family: 'Lato', sans-serif;
+	font-size: 26px;
+	text-align: justify;
+}
+
+.about-me-info span {
+	color:#FF7575;
+}
+
+.contact-info {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 100px;
+	font-family: 'Lato', sans-serif;
+	color:green;
+}
+
 /*----------TABLET---------------*/
 
 @media only screen and (min-width: 768px) {
