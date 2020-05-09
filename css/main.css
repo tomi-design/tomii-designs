@@ -391,6 +391,9 @@ footer p {
 	color:green;
 }
 
+.contact-info p {
+	font-size: 24px;
+}
 /*----------TABLET---------------*/
 
 @media only screen and (min-width: 768px) {
@@ -399,6 +402,10 @@ img {
 	width:250px;
 	}
 	
+
+.contact-info p {
+	font-size: 26px;
+}
 	
 }
 
@@ -429,6 +436,9 @@ footer p {
 	margin:100px 0;
 }
 	
+.contact-info p {
+	font-size: 26px;
+}
 	
 /*------------WEB DESIGN PAGE------------*/
 
