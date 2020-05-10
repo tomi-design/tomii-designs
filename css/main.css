@@ -375,8 +375,9 @@ footer p {
 
 .about-me-info p {
 	font-family: 'Lato', sans-serif;
-	font-size: 26px;
+	font-size: 24px;
 	text-align: justify;
+	color:#8B8B8B;
 }
 
 .about-me-info span {
@@ -396,6 +397,17 @@ footer p {
 	font-size: 24px;
 }
 
+/*---------CONTACT ME----------*/
+
+.contact-me {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.contact-me p {
+	font-size: 18px;
+}
 
 /*----------TABLET---------------*/
 
