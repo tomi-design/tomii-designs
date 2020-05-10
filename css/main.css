@@ -195,14 +195,14 @@ footer p {
 
 #img6 {
   width: 450px;
-  box-shadow: 5px 5px 30px black;
+  box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
 	margin-bottom: 200px;
 }
 
 #img7 {
     width: 800px;
-	box-shadow: 5px 5px 30px black;
+	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
 		margin-bottom: 200px;
 
@@ -210,7 +210,7 @@ footer p {
 
 #img8 {
   width: 800px;
-	box-shadow: 5px 5px 30px black;
+	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
 		margin-bottom: 200px;
 
@@ -218,14 +218,14 @@ footer p {
 
 #img9 {
   width: 800px;
-	box-shadow: 5px 5px 30px black;
+	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
 		margin-bottom: 200px;
 }
 
 #img10 {
   width: 500px;
-	box-shadow: 5px 5px 30px black;
+	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
 		margin-bottom: 200px;
 }
@@ -250,28 +250,28 @@ footer p {
 
 #img11 {
 	width:500px;
-	box-shadow: 5px 5px 30px black;
+	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
 		margin-bottom: 200px;
 }
 
 #img12 {
 		width:500px;
-	box-shadow: 5px 5px 30px black;
+	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
 		margin-bottom: 200px;
 }
 
 #img13 {
 		width:500px;
-	box-shadow: 5px 5px 30px black;
+	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
 		margin-bottom: 200px;
 }
 
 #img14 {
 		width:500px;
-	box-shadow: 5px 5px 30px black;
+	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
 		margin-bottom: 200px;
 }
@@ -395,6 +395,8 @@ footer p {
 .contact-info p {
 	font-size: 24px;
 }
+
+
 /*----------TABLET---------------*/
 
 @media only screen and (min-width: 768px) {
@@ -454,6 +456,40 @@ footer p {
 
 .me-info {
 	padding-top:30px;
+}
+
+/*------------BRANDING PAGE------------*/
+
+.pepino-images {
+	display:flex;
+	flex-flow:row wrap;
+	justify-content: center;
+	align-items: center;
+	width:90%;
+}
+	
+#pepino img {
+	width:30%;
+	height:auto;
+	margin-right:8%;
+	margin-left:8%;
+	margin-bottom:10%;
+}
+	
+#bakery .content-wrapper {
+	display:flex;
+	flex-flow:row wrap;
+	justify-content: center;
+	align-items: center;
+	width:90%;
+}
+	
+#bakery img {
+	width:30%;
+	height:auto;
+	margin-right:8%;
+	margin-left:8%;
+	margin-bottom:10%;
 }
 	
 /*------------WEB DESIGN PAGE------------*/
