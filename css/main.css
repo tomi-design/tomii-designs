@@ -84,7 +84,11 @@ h1 {
 	width:90%;
 }
 
-
+.pepino-images {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+}
 
 #work-links a {
   padding: 100px;
