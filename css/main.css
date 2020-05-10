@@ -417,6 +417,14 @@ footer p {
 	font-family: 'Lato', sans-serif;
 }
 
+.separate-line {
+	padding-top:120px;
+}
+
+.name p {
+	font-family: 'Homemade Apple', cursive;
+	padding-top:50px;
+}
 /*---------CONTACT ME----------*/
 
 .contact-me {
