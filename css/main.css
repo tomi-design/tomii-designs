@@ -514,7 +514,16 @@ footer p {
 .project-wrapper img {
 	width:60%;
 }
+
+
+.project-description-p {
+	width:70%;
+}
 	
+	.project-description p {
+		font-size:20px;		
+	}	
+
 }
 	
 
