@@ -84,15 +84,6 @@ h1 {
 	width:90%;
 }
 
-<<<<<<< HEAD
-.pepino-images {
-	display:flex;
-	flex-direction: column;
-	align-items: center;
-}
-=======
->>>>>>> gh-pages
-
 #work-links a {
   padding: 100px;
 }
@@ -180,39 +171,38 @@ footer p {
 
 #img1 {
 	margin-top:100px;
-		box-shadow: 5px 5px 30px #003300;
+	box-shadow: 5px 5px 30px #003300;
 	padding-bottom: 0;
-
 }
 
 #img2 {
 	margin-top:100px;
-		box-shadow: 5px 5px 30px #003300;
+	box-shadow: 5px 5px 30px #003300;
 	padding-bottom: 0;
 }
 
 #img3 {
-		margin-top:100px;
-		box-shadow: 5px 5px 30px #003300;
+	margin-top:100px;
+	box-shadow: 5px 5px 30px #003300;
 	padding-bottom: 0;
 }
 
 #img4 {
-		margin-top:100px;
-		box-shadow: 5px 5px 30px #003300;
+	margin-top:100px;
+	box-shadow: 5px 5px 30px #003300;
 	padding-bottom: 0;
 }
 
 #img5 {
-		margin-top:100px;
-		box-shadow: 5px 5px 30px #003300;
+	margin-top:100px;
+	box-shadow: 5px 5px 30px #003300;
 	padding-bottom: 0;
 	margin-bottom: 170px;
 }
 
 #img6 {
-  width: 450px;
-  box-shadow: 5px 5px 30px #737373;
+  	width: 450px;
+  	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
 	margin-bottom: 200px;
 }
@@ -221,30 +211,29 @@ footer p {
     width: 800px;
 	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
-		margin-bottom: 200px;
+	margin-bottom: 200px;
 
 }
 
 #img8 {
-  width: 800px;
+  	width: 800px;
 	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
-		margin-bottom: 200px;
-
+	margin-bottom: 200px;
 }
 
 #img9 {
-  width: 800px;
+  	width: 800px;
 	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
-		margin-bottom: 200px;
+	margin-bottom: 200px;
 }
 
 #img10 {
-  width: 500px;
+  	width: 500px;
 	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
-		margin-bottom: 200px;
+	margin-bottom: 200px;
 }
 
 
@@ -269,28 +258,28 @@ footer p {
 	width:500px;
 	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
-		margin-bottom: 200px;
+	margin-bottom: 200px;
 }
 
 #img12 {
-		width:500px;
+	width:500px;
 	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
-		margin-bottom: 200px;
+	margin-bottom: 200px;
 }
 
 #img13 {
-		width:500px;
+	width:500px;
 	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
-		margin-bottom: 200px;
+	margin-bottom: 200px;
 }
 
 #img14 {
-		width:500px;
+	width:500px;
 	box-shadow: 5px 5px 30px #737373;
 	padding-bottom: 0;
-		margin-bottom: 200px;
+	margin-bottom: 200px;
 }
 
 #bakery h1 {
@@ -362,10 +351,6 @@ footer p {
 }
 
 
-
-
-
-
 /*-----------ABOUT----------------*/
 
 .selfie {
@@ -401,9 +386,8 @@ footer p {
 }
 
 .about-me-info span {
-	color:#FF7575;
+	 color:#FF7575;
 	 font-family: 'Homemade Apple', cursive;
-
 }
 
 .contact-info {
@@ -479,10 +463,13 @@ img {
 	width:100%;
 }
 
+#work-links a {
+		padding:100px;
+}
+	
 img {
 	width:200px;
 }
-	
 	
 footer p {
 	margin:100px 0;
@@ -505,9 +492,11 @@ footer p {
 		font-size: 20px;
 }
 
-	.about-me-info span {
+.about-me-info span {
 		font-size: 22px;
-	}
+}
+	
+	
 /*------------BRANDING PAGE------------*/
 
 .pepino-images {
@@ -554,9 +543,9 @@ footer p {
 	width:70%;
 }
 	
-	.project-description p {
+.project-description p {
 		font-size:20px;		
-	}	
+}	
 
 }
 	
