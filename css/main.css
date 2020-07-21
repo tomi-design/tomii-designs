@@ -434,6 +434,15 @@ footer p {
 	font-size: 18px;
 }
 
+.contact-me a {
+	text-decoration: none;
+}
+
+.contact-me a:hover {
+	color:rgb(255, 154, 154);
+	text-decoration: none;
+}
+
 /*----------TABLET---------------*/
 
 @media only screen and (min-width: 768px) {
