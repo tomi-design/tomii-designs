@@ -25,7 +25,6 @@ header {
 	align-items: center;
 	width:100%;
 }
-
 .nav-wrapper {
 	display:flex;
 	flex-direction: row;
@@ -38,11 +37,10 @@ nav {
 	justify-content: center;
 	align-items: flex-end;
 	padding-top:70px;
-   /* padding: 20px 100px;*/
 }
 
 nav a {
-  padding-left: 20px;
+  padding-left: 30px;
   font-size: 18px;
   font-family: 'Lato', sans-serif;
   letter-spacing: 2px;
@@ -56,6 +54,9 @@ a:visited {
 a:link {
   color: green;
 }
+
+
+
 
 h1 {
   font-family: 'Homemade Apple', cursive;
@@ -360,6 +361,7 @@ footer a {
 
 
 /*-----------ABOUT----------------*/
+
 
 .selfie {
 	display:flex;
