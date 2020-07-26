@@ -109,6 +109,10 @@ footer p {
 	margin-top: 50px;
 }
 
+footer a {
+	text-decoration: none;
+}
+
 
 #workEmail {
 	text-decoration: none;
