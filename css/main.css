@@ -40,7 +40,7 @@ nav {
 }
 
 nav a {
-  padding-left: 30px;
+  /* padding-left: 30px; */
   font-size: 18px;
   font-family: 'Lato', sans-serif;
   letter-spacing: 2px;
@@ -118,6 +118,7 @@ footer a {
 #workEmail {
 	text-decoration: none;
 }
+
 
 /*-------------BRANDING----------------------*/
 
@@ -361,7 +362,40 @@ footer a {
 
 
 /*-----------ABOUT----------------*/
+.about-me-nav {
+	display:flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 60%;
+}
+.about-me-nav a {
+	padding-left:0;
+}
 
+.about-me-main {
+	width: 100%;
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.about-me-content-wrapper {
+	width:80%;
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.about-me-content-wrapper h1 {
+	padding:50px 30px;
+	font-size: 30px;
+}
+
+.about-info {
+	margin-top: 50px;
+}
 
 .selfie {
 	display:flex;
@@ -371,16 +405,79 @@ footer a {
 
 .selfie img {
 	box-shadow: 5px 5px 20px darkgray;
-	width:270px;
+	width:75%;
 }
 
-.about-content-wrapper {
+.about-info {
+	width:100%;
 	display:flex;
 	flex-direction: column;
+	justify-content: center;
 	align-items: center;
 }
 
-.about-me-info {
+.about-intro {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 50px;
+}
+
+.about-intro p {
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+
+}
+
+.about-intro a {
+	color:#FF7575;
+	text-decoration: none;
+}
+
+.about-list {
+	display:flex;
+	justify-content:center;
+	align-items: center;
+}
+
+.about-list p {
+	font-family: 'Lato', sans-serif;
+}
+
+.about-list span {
+	font-family: 'Homemade Apple', cursive;
+	color:#FF7575;
+
+}
+
+.last-line p {
+	font-family: 'Lato', sans-serif;
+}
+
+.about-button {
+	margin-top: 50px;
+	font-size: 25px;
+	background-color: transparent;
+	border:green solid 2px;
+	border-radius: 5px;
+	padding:15px 30px;
+}
+
+.about-contact-info {
+	display:flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	width: 70%;
+	margin: 100px 0 50px 0;
+}
+
+.about-contact-info i {
+	font-size: 24px;
+	color:#FF7575;
+}
+
+/* .about-me-info {
 	width:60%;
 	padding:100px 0;
 }
@@ -389,8 +486,6 @@ footer a {
 	font-size: 24px;
 	text-align: justify;
 	color:#8B8B8B;
-	/*font-family: 'Lato', sans-serif;
-	font-weight: 300;*/
 	font-family: 'Raleway', sans-serif;
 	margin:0;
 }
@@ -440,10 +535,6 @@ footer a {
 }
 
 .portfolio-links {
-	/*display:flex;
-	justify-content: center;
-	align-items: center;
-	width:60%;*/
 	text-align: center;
 }
 
@@ -454,7 +545,7 @@ footer a {
 
 .portfolio-links a :hover {
 	color:rgb(255, 211, 211);
-}
+} */
 
 
 /*---------CONTACT ME----------*/
@@ -504,6 +595,18 @@ img {
 
 .portfolio-links {
 	text-align: center;
+}
+
+.selfie img {
+	width:50%;
+}
+
+.about-intro {
+	width:70%;
+}
+
+.about-list {
+	width:70%;
 }
 
 
@@ -626,8 +729,26 @@ footer p {
 
 }
 
+/*------ABOUT PAGE DESKTOP------------*/
 
+.about-info {
+	width: 70%;
+}
 
+.about-intro p {
+	font-size: 20px;
+	color:#8B8B8B;
+}
+
+.about-list p {
+	font-size: 20px;
+	color:#8B8B8B;
+}
+
+.last-line p {
+	font-size: 20px;
+	color:#8B8B8B;
+}
 
 }
 	
